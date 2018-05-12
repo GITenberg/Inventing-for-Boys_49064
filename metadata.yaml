@@ -1,4 +1,8 @@
 _repo: Inventing-for-Boys_49064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49064-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Collins, A. Frederick (Archie Frederick)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2266'
     url: http://www.gutenberg.org/2009/agents/2266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49064#Inventing-for-Boys
 gutenberg_issued: '2015-05-28'
 gutenberg_type: Text
 identifiers:
